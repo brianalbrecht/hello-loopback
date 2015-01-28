@@ -29,5 +29,9 @@
   "greeting": {
     "dataSource": "db",
     "public": true
+  },
+  "testmodel": {
+    "dataSource": "db",
+    "public": true
   }
 }
